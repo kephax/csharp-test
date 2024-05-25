@@ -1,0 +1,14 @@
+C:\Users\kepha\Desktop\CSharp Test\Bin\NUnit3.TestAdapter.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\nunit.engine.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\nunit.engine.api.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.Pdb.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.Mdb.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.Rocks.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\RefactoringGeometricalShapes.exe.config
+C:\Users\kepha\Desktop\CSharp Test\Bin\RefactoringGeometricalShapes.exe
+C:\Users\kepha\Desktop\CSharp Test\Bin\RefactoringGeometricalShapes.pdb
+C:\Users\kepha\Desktop\CSharp Test\3_RefactoringGeometricalShapes\obj\Debug\4_RefactoringGeometricalShapes.csprojResolveAssemblyReference.cache
+C:\Users\kepha\Desktop\CSharp Test\3_RefactoringGeometricalShapes\obj\Debug\4_RefactoringGeometricalShapes.csproj.CoreCompileInputs.cache
+C:\Users\kepha\Desktop\CSharp Test\3_RefactoringGeometricalShapes\obj\Debug\RefactoringGeometricalShapes.exe
+C:\Users\kepha\Desktop\CSharp Test\3_RefactoringGeometricalShapes\obj\Debug\RefactoringGeometricalShapes.pdb

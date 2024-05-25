@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E7084-38F4-40B1-87C3-D5E31A9981AB}|3_RefactoringGeometricalShapes\\4_RefactoringGeometricalShapes.csproj|d:\\develop\\net\\sogeti\\csharp test\\3_refactoringgeometricalshapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E7084-38F4-40B1-87C3-D5E31A9981AB}|3_RefactoringGeometricalShapes\\4_RefactoringGeometricalShapes.csproj|solutionrelative:3_refactoringgeometricalshapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5360D32B-3BD7-4191-94B9-4D3F00B2900D}|4_Reverse\\3_Reverse.csproj|d:\\develop\\net\\sogeti\\csharp test\\4_reverse\\charreversetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360D32B-3BD7-4191-94B9-4D3F00B2900D}|4_Reverse\\3_Reverse.csproj|solutionrelative:4_reverse\\charreversetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5360D32B-3BD7-4191-94B9-4D3F00B2900D}|4_Reverse\\3_Reverse.csproj|d:\\develop\\net\\sogeti\\csharp test\\4_reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360D32B-3BD7-4191-94B9-4D3F00B2900D}|4_Reverse\\3_Reverse.csproj|solutionrelative:4_reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5360D32B-3BD7-4191-94B9-4D3F00B2900D}|4_Reverse\\3_Reverse.csproj|d:\\develop\\net\\sogeti\\csharp test\\4_reverse\\charreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5360D32B-3BD7-4191-94B9-4D3F00B2900D}|4_Reverse\\3_Reverse.csproj|solutionrelative:4_reverse\\charreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0CE3D-E941-417C-B4C4-B63E12EF18F6}|2_PublishSubscribe\\2_PublishSubscribe.csproj|d:\\develop\\net\\sogeti\\csharp test\\2_publishsubscribe\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C0CE3D-E941-417C-B4C4-B63E12EF18F6}|2_PublishSubscribe\\2_PublishSubscribe.csproj|solutionrelative:2_publishsubscribe\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0CE3D-E941-417C-B4C4-B63E12EF18F6}|2_PublishSubscribe\\2_PublishSubscribe.csproj|d:\\develop\\net\\sogeti\\csharp test\\2_publishsubscribe\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C0CE3D-E941-417C-B4C4-B63E12EF18F6}|2_PublishSubscribe\\2_PublishSubscribe.csproj|solutionrelative:2_publishsubscribe\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0CE3D-E941-417C-B4C4-B63E12EF18F6}|2_PublishSubscribe\\2_PublishSubscribe.csproj|d:\\develop\\net\\sogeti\\csharp test\\2_publishsubscribe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C0CE3D-E941-417C-B4C4-B63E12EF18F6}|2_PublishSubscribe\\2_PublishSubscribe.csproj|solutionrelative:2_publishsubscribe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC410B-C698-4836-BC10-3D59523D8CFD}|1_ParenthesesBalancing\\1_ParenthesesBalancing.csproj|d:\\develop\\net\\sogeti\\csharp test\\1_parenthesesbalancing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC410B-C698-4836-BC10-3D59523D8CFD}|1_ParenthesesBalancing\\1_ParenthesesBalancing.csproj|solutionrelative:1_parenthesesbalancing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC410B-C698-4836-BC10-3D59523D8CFD}|1_ParenthesesBalancing\\1_ParenthesesBalancing.csproj|d:\\develop\\net\\sogeti\\csharp test\\1_parenthesesbalancing\\parenthesesbalancingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC410B-C698-4836-BC10-3D59523D8CFD}|1_ParenthesesBalancing\\1_ParenthesesBalancing.csproj|solutionrelative:1_parenthesesbalancing\\parenthesesbalancingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC410B-C698-4836-BC10-3D59523D8CFD}|1_ParenthesesBalancing\\1_ParenthesesBalancing.csproj|d:\\develop\\net\\sogeti\\csharp test\\1_parenthesesbalancing\\parenthesesbalancing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC410B-C698-4836-BC10-3D59523D8CFD}|1_ParenthesesBalancing\\1_ParenthesesBalancing.csproj|solutionrelative:1_parenthesesbalancing\\parenthesesbalancing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\3_RefactoringGeometricalShapes\\Program.cs",
+              "RelativeDocumentMoniker": "3_RefactoringGeometricalShapes\\Program.cs",
+              "ToolTip": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\3_RefactoringGeometricalShapes\\Program.cs",
+              "RelativeToolTip": "3_RefactoringGeometricalShapes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:43:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharReverseTest.cs",
+              "DocumentMoniker": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\4_Reverse\\CharReverseTest.cs",
+              "RelativeDocumentMoniker": "4_Reverse\\CharReverseTest.cs",
+              "ToolTip": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\4_Reverse\\CharReverseTest.cs",
+              "RelativeToolTip": "4_Reverse\\CharReverseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:43:29.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\4_Reverse\\Program.cs",
+              "RelativeDocumentMoniker": "4_Reverse\\Program.cs",
+              "ToolTip": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\4_Reverse\\Program.cs",
+              "RelativeToolTip": "4_Reverse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:43:26.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharReverse.cs",
+              "DocumentMoniker": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\4_Reverse\\CharReverse.cs",
+              "RelativeDocumentMoniker": "4_Reverse\\CharReverse.cs",
+              "ToolTip": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\4_Reverse\\CharReverse.cs",
+              "RelativeToolTip": "4_Reverse\\CharReverse.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:43:12.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\2_PublishSubscribe\\Subscriber.cs",
+              "RelativeDocumentMoniker": "2_PublishSubscribe\\Subscriber.cs",
+              "ToolTip": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\2_PublishSubscribe\\Subscriber.cs",
+              "RelativeToolTip": "2_PublishSubscribe\\Subscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:43:03.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\2_PublishSubscribe\\Publisher.cs",
+              "RelativeDocumentMoniker": "2_PublishSubscribe\\Publisher.cs",
+              "ToolTip": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\2_PublishSubscribe\\Publisher.cs",
+              "RelativeToolTip": "2_PublishSubscribe\\Publisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:42:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\2_PublishSubscribe\\Program.cs",
+              "RelativeDocumentMoniker": "2_PublishSubscribe\\Program.cs",
+              "ToolTip": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\2_PublishSubscribe\\Program.cs",
+              "RelativeToolTip": "2_PublishSubscribe\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:42:55.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\1_ParenthesesBalancing\\Program.cs",
+              "RelativeDocumentMoniker": "1_ParenthesesBalancing\\Program.cs",
+              "ToolTip": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\1_ParenthesesBalancing\\Program.cs",
+              "RelativeToolTip": "1_ParenthesesBalancing\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:42:48.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParenthesesBalancingTest.cs",
+              "DocumentMoniker": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\1_ParenthesesBalancing\\ParenthesesBalancingTest.cs",
+              "RelativeDocumentMoniker": "1_ParenthesesBalancing\\ParenthesesBalancingTest.cs",
+              "ToolTip": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\1_ParenthesesBalancing\\ParenthesesBalancingTest.cs",
+              "RelativeToolTip": "1_ParenthesesBalancing\\ParenthesesBalancingTest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:42:31.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ParenthesesBalancing.cs",
+              "DocumentMoniker": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\1_ParenthesesBalancing\\ParenthesesBalancing.cs",
+              "RelativeDocumentMoniker": "1_ParenthesesBalancing\\ParenthesesBalancing.cs",
+              "ToolTip": "D:\\Develop\\NET\\Sogeti\\CSharp Test\\1_ParenthesesBalancing\\ParenthesesBalancing.cs",
+              "RelativeToolTip": "1_ParenthesesBalancing\\ParenthesesBalancing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:42:07.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

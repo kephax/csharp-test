@@ -1,0 +1,13 @@
+C:\Users\kepha\Desktop\CSharp Test\Bin\NUnit3.TestAdapter.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\nunit.engine.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\nunit.engine.api.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.Pdb.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.Mdb.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.Rocks.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\PublishSubscribe.exe
+C:\Users\kepha\Desktop\CSharp Test\Bin\PublishSubscribe.pdb
+C:\Users\kepha\Desktop\CSharp Test\2_PublishSubscribe\obj\Debug\2_PublishSubscribe.csprojResolveAssemblyReference.cache
+C:\Users\kepha\Desktop\CSharp Test\2_PublishSubscribe\obj\Debug\2_PublishSubscribe.csproj.CoreCompileInputs.cache
+C:\Users\kepha\Desktop\CSharp Test\2_PublishSubscribe\obj\Debug\PublishSubscribe.exe
+C:\Users\kepha\Desktop\CSharp Test\2_PublishSubscribe\obj\Debug\PublishSubscribe.pdb

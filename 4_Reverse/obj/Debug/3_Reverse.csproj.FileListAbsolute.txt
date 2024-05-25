@@ -1,0 +1,14 @@
+C:\Users\kepha\Desktop\CSharp Test\Bin\NUnit3.TestAdapter.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\nunit.engine.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\nunit.engine.api.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.Pdb.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.Mdb.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Mono.Cecil.Rocks.dll
+C:\Users\kepha\Desktop\CSharp Test\Bin\Reverse.exe.config
+C:\Users\kepha\Desktop\CSharp Test\Bin\Reverse.exe
+C:\Users\kepha\Desktop\CSharp Test\Bin\Reverse.pdb
+C:\Users\kepha\Desktop\CSharp Test\4_Reverse\obj\Debug\3_Reverse.csprojResolveAssemblyReference.cache
+C:\Users\kepha\Desktop\CSharp Test\4_Reverse\obj\Debug\3_Reverse.csproj.CoreCompileInputs.cache
+C:\Users\kepha\Desktop\CSharp Test\4_Reverse\obj\Debug\Reverse.exe
+C:\Users\kepha\Desktop\CSharp Test\4_Reverse\obj\Debug\Reverse.pdb

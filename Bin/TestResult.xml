@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Develop\NET\Sogeti\CSharp Test\Bin\ParenthesesBalancing.exe" total="7" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2024-05-25" time="16:41:54">
+  <environment nunit-version="2.5.10.11092" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\Develop\NET\Sogeti\CSharp Test\Bin" machine-name="UX7602VI" user="kepha" user-domain="UX7602VI" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Develop\NET\Sogeti\CSharp Test\Bin\ParenthesesBalancing.exe" executed="True" result="Success" success="True" time="0.033" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ParenthesesBalancing" executed="True" result="Success" success="True" time="0.024" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="ParenthesesBalancingTest" executed="True" result="Success" success="True" time="0.023" asserts="0">
+            <results>
+              <test-case name="ParenthesesBalancing.ParenthesesBalancingTest.givenComplicatedTextWithBalancedParentheses_whenIsBalanced_thenReturnTrue" executed="True" result="Success" success="True" time="0.015" asserts="0" />
+              <test-case name="ParenthesesBalancing.ParenthesesBalancingTest.givenComplicatedTextWithUnnBalancedParentheses_whenIsBalanced_thenReturnFalse" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="ParenthesesBalancing.ParenthesesBalancingTest.givenEmptyText_whenIsBalanced_thenReturnTrue" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="ParenthesesBalancing.ParenthesesBalancingTest.givenTextWithBalancedParentheses_whenIsBalanced_thenReturnTrue" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="ParenthesesBalancing.ParenthesesBalancingTest.givenTextWithoutParentheses_whenIsBalanced_thenReturnTrue" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="ParenthesesBalancing.ParenthesesBalancingTest.givenTextWithUnBalancedLeftParentheses_whenIsBalanced_thenReturnFalse" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+              <test-case name="ParenthesesBalancing.ParenthesesBalancingTest.givenTextWithUnBalancedRightParentheses_whenIsBalanced_thenReturnFalse" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
